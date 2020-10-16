@@ -1,0 +1,55 @@
+body {
+    background-color: lawngreen;
+    text-align: center;
+    list-style-position: inside;
+}
+
+#countdown-christmas {
+    border: 10px inset gold;
+    text-align: center;
+    font-size: 35px;
+    width: 20%;
+    background: lightblue;
+    box-align: inline;
+    margin: auto;
+}
+
+#countdown-easter {
+    border: 10px inset gold;
+    text-align: center;
+    font-size: 35px;
+    width: 20%;
+    background: lightblue;
+    box-align: inline;
+    margin: auto;
+}
+
+#countdown-halloween {
+    border: 10px inset gold;
+    text-align: center;
+    font-size: 35px;
+    width: 20%;
+    background: lightblue;
+    box-align: inline;
+    margin: auto;
+}
+
+#countdown-newyears {
+    border: 10px inset gold;
+    text-align: center;
+    font-size: 35px;
+    width: 20%;
+    background: lightblue;
+    box-align: inline;
+    margin: auto;
+}
+
+#countdown-schoolstart {
+    border: 10px inset gold;
+    text-align: center;
+    font-size: 35px;
+    width: 20%;
+    background: lightblue;
+    box-align: inline;
+    margin: auto;
+}
